@@ -8,3 +8,9 @@ body {
     "Lucida Sans", Arial, sans-serif;
   background: #fff url(./assets/fundo.png)repeat-x;
 }
+/* voltar para este trecho do codigo */
+.home #navegacao a#home { 
+  color: #fff;
+  background: #de003e;
+  cursor: text;
+}
