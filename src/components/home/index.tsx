@@ -1,9 +1,9 @@
-
+import Header from "../header"
 
 export default function home() {
     return (
         <div>
-            <h1>Home</h1>
+            <Header />
         </div>
     )
 }

@@ -1,0 +1,21 @@
+#container {
+  width: 750px;
+  margin: 0 auto;
+  /* border: 1px solid red;
+  */
+}
+
+#topo {
+  height: 150px;
+  /* border: 1px solid red; */
+  padding: 15px;
+  background: url(../../assets/detalhe-topo.png) no-repeat right top;
+  display: flex;
+}
+
+.logo {
+  width: 152px;
+  height: 66px;
+  background: url(../../assets/logo.png) no-repeat center;
+  text-indent:-3000px ;
+}
