@@ -5,7 +5,7 @@ export default function baseBoad() {
         <div className='clearboth'>
             <div id='baseboard'>
                 <div id='baseboard-body'>
-                    rodaper
+                    &copy; Copyright 2000 - 2023 Notícias Cidade
 
                 </div>
             </div>
