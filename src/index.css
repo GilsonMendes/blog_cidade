@@ -14,3 +14,7 @@ body {
   background: #de003e;
   cursor: text;
 }
+
+.clearboth {
+  clear: both;
+}
