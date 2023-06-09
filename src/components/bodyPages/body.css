@@ -1,0 +1,25 @@
+
+#conteudo {
+    background:#f5f5f5;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+#primario{
+    width: 270px;
+    float: left;
+    background: #3425;
+}
+
+#secundario{
+    width: 270px;
+    float: left;
+    background: #4933;
+}
+
+#lateral{
+    width: 250px;
+    float: left;
+    background: #2314;
+}
