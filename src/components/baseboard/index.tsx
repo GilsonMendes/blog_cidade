@@ -4,7 +4,10 @@ export default function baseBoad() {
     return (
         <div className='clearboth'>
             <div id='baseboard'>
-                rodape
+                <div id='baseboard-body'>
+                    rodaper
+
+                </div>
             </div>
         </div>
     )

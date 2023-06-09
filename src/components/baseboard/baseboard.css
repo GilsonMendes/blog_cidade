@@ -1,3 +1,11 @@
 #baseboard{
-    background: #0390b1;
+    background: #294c71;
+}
+
+#baseboard-body{
+    display: flex;
+    align-items: center;
+    width: 800px;
+    margin: 0 auto;
+    height: 60px;
 }
