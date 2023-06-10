@@ -1,5 +1,5 @@
 import Header from "../header"
-import Body from "../bodyPages"
+import Body from "../body-pages"
 import BaseBoard from "../baseboard"
 import '../../index.css'
 
