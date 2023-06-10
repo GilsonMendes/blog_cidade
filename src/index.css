@@ -18,3 +18,6 @@ body {
 .clearboth {
   clear: both;
 }
+ul{
+  font-size: 15px;
+}
