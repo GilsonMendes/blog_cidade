@@ -1,7 +1,7 @@
 import Header from "../header"
 import Body from "../body-pages"
 import BaseBoard from "../baseboard"
-import PageNoticia from "../pages/page-noticias.tsx"
+import PageSportes from "../pages/page-esportes.tsx"
 import '../../index.css'
 
 export default function home() {
@@ -9,7 +9,7 @@ export default function home() {
         <div className="home">
             <Header />
             {/* <Body /> */}
-            <PageNoticia/>
+            <PageSportes/>
             <BaseBoard />
         </div>
     )
