@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid red;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 60px;
+    background: #ccc;
+
+}
+
+
+.galeria-fotos{
+    border: 1px solid blue;
+    width: 400px;
+    height: 400px;
+
+}
+
+.conteiner-fotos{
+    display: flex;
+
+}
