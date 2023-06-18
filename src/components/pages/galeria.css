@@ -1,21 +1,41 @@
-.container{
-    border: 1px solid red;
-    width: 800px;
-    margin: 0 auto;
-    margin-top: 60px;
-    background: #ccc;
-
+.container {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 60px;
 }
 
-
-.galeria-fotos{
-    border: 1px solid blue;
-    width: 400px;
-    height: 400px;
-
+.galeria-fotos-a {
+  display: inline-block;
+  width: 360px;
+  height: 360px;
+  margin-left: 25px;
+  margin-top: 25px;
+  background: #ccc url(../../assets/fundo-caixa.png);
 }
 
-.conteiner-fotos{
-    display: flex;
+.galeria-fotos-b {
+  display: inline-block;
+  width: 360px;
+  height: 360px;
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  background: #ccc url(../../assets/fundo-caixa.png);
+}
 
+#container-fotos {
+  
+}
+
+h1 {
+  padding: 10px;
+  margin-left: 25px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
 }
